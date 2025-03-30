@@ -77,3 +77,6 @@ You can view the application by navigating to `http://localhost:3000` in your we
 ## Contributing
 
 Contributions are welcome! Please create a pull request for any changes or fixes you would like to propose.
+
+![image](https://github.com/user-attachments/assets/f102430e-5308-4b00-b985-1d3be68e8062)
+
